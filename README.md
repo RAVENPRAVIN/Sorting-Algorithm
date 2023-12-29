@@ -60,7 +60,7 @@ print(list_of_nums)
 ## Output:
 ![41a](https://github.com/RAVENPRAVIN/Sorting-Algorithm/assets/146820534/8a027725-7b45-4b53-aded-c2003923c63f)
 
-![Your paragraph text](https://github.com/RAVENPRAVIN/Sorting-Algorithm/assets/146820534/f1e70a92-1821-4cb2-9526-397058a32d2d)
+![41a (2)](https://github.com/RAVENPRAVIN/Sorting-Algorithm/assets/146820534/1636f934-2ced-44e7-b8e6-d0d867cc9b3c)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
